@@ -1,1 +1,1 @@
-# Satistics
+# Statistics
